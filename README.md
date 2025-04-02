@@ -29,8 +29,7 @@ The simulation was set up and executed as follows:
         *   A router acting as the default gateway (named `Router0`).
         *   An additional PC acting as the attacker (named `MALICIOUS DEVICE`).
     *   All devices were connected via Copper Straight-Through cables to the switch.
-        ![Initial Network Topology](https://github.com/Teedico/ARP-Spoofing-Packet-Tracer/blob/d2ab873bc02649b58b0d11e48d894c72a5a86c2f/11.jpg)
-
+      
 2.  **Device IP Configuration:**
     *   Devices were configured with static IP addresses within the same subnet (e.g., 192.168.1.0/24):
         *   `Router0` (Gateway): Likely configured with 192.168.1.1.
