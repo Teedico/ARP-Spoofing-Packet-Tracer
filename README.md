@@ -19,6 +19,8 @@ This project demonstrates an Address Resolution Protocol (ARP) spoofing attack u
 
 -   **Cisco Packet Tracer:** Version 8.2.2 or similar, used for network simulation and visualization.
 
+  ![](https://github.com/Teedico/ARP-Spoofing-Packet-Tracer/blob/bcfc06ea3d966fda3f498838c17ed98055460234/11.jpg)
+
 ## Steps
 
 The simulation was set up and executed as follows:
