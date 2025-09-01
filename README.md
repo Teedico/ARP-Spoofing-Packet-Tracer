@@ -13,6 +13,7 @@ This project demonstrates an Address Resolution Protocol (ARP) spoofing attack u
 -   **Packet Analysis:** Using Packet Tracer's simulation mode to observe ARP packet exchanges and verify traffic redirection during an attack.
 -   **Cybersecurity Concepts:** Identifying and explaining ARP spoofing detection techniques and mitigation strategies.
 -   **Technical Documentation:** Creating visual and written documentation of a simulated network attack.
+-   
 
 ## Tools Used
 
@@ -65,7 +66,3 @@ Several strategies can help mitigate the risk of ARP spoofing:
 -   **Virtual Private Networks (VPNs):** While not a direct ARP spoofing countermeasure on the local LAN segment, VPNs encrypt traffic between endpoints, protecting data confidentiality even if traffic is intercepted.
 -   **Security Awareness & Testing:** Educating users and IT staff about such threats and potentially running controlled tests to evaluate defenses.
 
-## References
-
--   Bart L. -B. (2022, May 19). *Address resolution protocol (ARP) spoofing: what is it and how to prevent an ARP attack*. CrowdStrike. https://www.crowdstrike.com/cybersecurity-101/spoofing-attacks/arp-spoofing/
--   Appknox. (2024). *ARP Spoofing*. Appknox Cyber Security Jargons. https://www.appknox.com/cyber-security-jargons/arp-spoofing
