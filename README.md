@@ -19,7 +19,6 @@ This project demonstrates an Address Resolution Protocol (ARP) spoofing attack u
 
 -   **Cisco Packet Tracer:** Version 8.2.2 or similar, used for network simulation and visualization.
 
-  ![](https://github.com/Teedico/ARP-Spoofing-Packet-Tracer/blob/bcfc06ea3d966fda3f498838c17ed98055460234/11.jpg)
 
 ## Steps
 
@@ -49,6 +48,10 @@ The simulation was set up and executed as follows:
     *   In Simulation Mode, the flow of the spoofed ARP packets from the `MALICIOUS DEVICE` to `Switch0` and then broadcast or forwarded to `PC0` was observed.
     *   Upon receiving the spoofed ARP reply, `PC0` would update its local ARP cache, incorrectly associating `Router0`'s IP address with the `MALICIOUS DEVICE`'s MAC address.
     *   As a result, any subsequent network traffic `PC0` attempted to send to the default gateway (`Router0`) would be sent at the Ethernet layer to the `MALICIOUS DEVICE`'s MAC address instead, effectively intercepting the traffic.
+       
+  
+   ![Image](https://github.com/Teedico/ARP-Spoofing-Packet-Tracer/blob/bcfc06ea3d966fda3f498838c17ed98055460234/11.jpg)
+   
 
 ## ARP Detection Methods
 
